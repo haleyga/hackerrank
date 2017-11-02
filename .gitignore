@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+**/out[0-9]*
+*.backup
+*archive.*
+**/temp
